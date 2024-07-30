@@ -1,1 +1,5 @@
-# completa-endereco-nodejs-viacep
+## Objetivo
+
+Completar Endereço ao digitar CEP
+
+Utilizando API VIACEP
