@@ -1,0 +1,16 @@
+{
+  "name": "complete-address-postcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:dist": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "Denis Cunha",
+  "license": "ISC",
+  "description": "complete address for postcode Brazil",
+  "dependencies": {
+    "get-json": "^1.1.0"
+  }
+}
